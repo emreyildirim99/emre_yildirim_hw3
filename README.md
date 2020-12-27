@@ -1,6 +1,8 @@
-# emre_yildirim_hw3
+# Emre Yıldırım - CET301 HW3
 
-A new Flutter application.
+Emre YILDIRIM CET301 HW3
+
+![2020-12-27 21 19 47](https://user-images.githubusercontent.com/44210684/103177837-108aff00-488f-11eb-8e58-d88b93e1a464.gif)
 
 ## Getting Started
 
